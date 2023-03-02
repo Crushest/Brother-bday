@@ -74,12 +74,13 @@ input:checked + .slider:before {
     top:0;
     right:0;
     margin: 20px;
-    padding: 2px 7px 1px 7px;
+    padding: 2px 7px;
     height: 25px;
     width: 100px;
     border-radius: 50px;
     align-items: center;
     box-shadow: 0 0 3px darkgray;
+    line-height: 20px;
 }
 .web{
     font-size: 10px;
